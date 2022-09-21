@@ -12,7 +12,7 @@ Team ID : PNT2022TMID24070
 
 <bold>Team member 2 :</bold> NAVEEN KUMAR J | <a href="https://github.com/IBM-EPBL/IBM-Project-50492-1660912439/tree/main/Assignments/Team%20Member-2">Assignments</a>
 
-<bold>Team member 3 :</bold> HARITH | <a href="https://github.com/IBM-EPBL/IBM-Project-50492-1660912439/tree/main/Assignments/Team%20Member-3">Assignments</a>
+<bold>Team member 3 :</bold> HARITH S R | <a href="https://github.com/IBM-EPBL/IBM-Project-50492-1660912439/tree/main/Assignments/Team%20Member-3">Assignments</a>
 
 
 <img src="https://www.bharatiweb.in/blogs/Encyc/2020/2/28/2_02_50_50_phishing_1_H@@IGHT_420_W@@IDTH_504.jpg" alt="Web Phishing">
