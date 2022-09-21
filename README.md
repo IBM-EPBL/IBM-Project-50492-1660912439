@@ -4,9 +4,9 @@
 
   <html>
     <body>
-     <font size="6"
-          color="rgb(128, 128, 0)">
-          GeeksforGeeks!
+     <font size="12"
+          color="#008000">
+           Web Phishing Detection
     </font>
      </body>
     </html>
