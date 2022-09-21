@@ -4,10 +4,7 @@
 
 #  <html>
     <body>
-     <font size="12"
-          color="#008000">
-           Web Phishing Detection
-    </font>
+    "  Phishing is a major problem because there really is no patch for human stupidity "
      </body>
     </html>
 
