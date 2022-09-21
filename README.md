@@ -2,12 +2,9 @@
 
 # Project Title: Web Phishing Detection
 
-  #
-   <html>
-     <body>
-    "  Phishing is a major problem because there really is no patch for human stupidity "
-     </body>
-    </html>
+ 
+   # "  Phishing is a major problem because there really is no patch for human stupidity "
+     
 
 
 Team ID : PNT2022TMID24070
