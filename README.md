@@ -3,7 +3,7 @@
 # Project Title: Web Phishing Detection
 
  
-           Motive:   "  Phishing is a major problem because there really is no patch for human stupidity "
+           Project Motive:   "  Phishing is a major problem because there really is no patch for human stupidity "
      
 
 
